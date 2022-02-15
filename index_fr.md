@@ -42,7 +42,26 @@ gallery:
     alt: "Eurpean Networks of Living labs"
     title: "Eurpean Networks of Living labs"
 
+ICE:
+  - image_path: "/assets/images/ICE/Affiche-ICE.jpg"
+    alt: "ICE-IAMOT Conference 2022"
+    title: "Rejoignez-nous à la Conférence IEEE ICE - IAMOT 2022"
+    excerpt: "<p>En 2022, pour la première fois, les communautés de l'ICE et de l'IAMOT travailleront ensemble, dans le but d'explorer de nouvelles façons d'interagir et de trouver des solutions innovantes aux problèmes mondiaux critiques de notre époque. Le thème de la conférence est:</p>
+    <b>Technology, Engineering, and Innovation Management Communities as Enablers for Social-Ecological Transitions</b>
+
+    <p>La conférence ICE/IEEE ITMC comprend des intervenants de premier plan. Ces orateurs participeront à nos sessions d'experts sur l'innovation par l'utilisation des technologies immersives et de l'intelligence artificielle. Nous avons réussi à obtenir une sélection de responsables de l'innovation, de PDG, d'universitaires, de politiciens et d'entrepreneurs de premier plan dans ces domaines.</p>"
+    url: https://ice-iamot-2022-conference.org/
+    btn_label: "Plus de détails"
+    btn_class: "btn--success"
+
 ---
+
+
+{% include feature_row id="ICE" type="right"%}
+
+
+
+***
 
 **L’ERPI (Équipe de Recherche sur les Processus Innovatifs)** est un des laboratoires de [l'Université de Lorraine](http://univ-lorraine.fr), labellisé Équipe d’Accueil (EA n° 3767) par le Ministère de l’Enseignement Supérieur et de la Recherche.
 L'ERPI est membre de la **FR 2863 : Fédération de Recherche Jacques Villermaux pour la Mécanique, l'Energie, les Procédés (FR JV)** et est rattaché au pole scientifique EMPP - Énergie, Mécanique, Procédés, Produits.
@@ -58,7 +77,7 @@ Le projet scientifique de l’ERPI porte sur **les étapes amont du processus d�
 {% include /ERPI/Posts-FR.html %}
 
 
-## Notre plateforme de recherche 
+## Notre plateforme de recherche
 
 <a href="http://lf2l.fr/">
 <img src="/assets/images/partners/LF2L-Vertical.jpg"  alt= "Lorraine fab living lab lf2l" width="30%" class="align-right">
@@ -76,4 +95,3 @@ Le **Lorraine Fab Living Lab® (LF2L®)** permet d’accompagner la création et
 ## Réseaux Nationaux et Internationaux
 
 {% include gallery %}
-

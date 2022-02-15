@@ -7,7 +7,6 @@ excerpt: Equipe de Recherche sur les Processus Innovatifs
 header:
   overlay_image: /assets/images/banner/bannerhomelogoeurope.jpg
 
-
 academic:
 - url: https://www.ensgsi.univ-lorraine.fr/
   image_path: "/assets/images/partners/ENSGSI.jpg"
@@ -36,10 +35,24 @@ gallery:
   alt: Eurpean Networks of Living labs
   title: European Networks of Living labs
 
+ICE:
+- image_path: "/assets/images/ICE/Affiche-ICE.jpg"
+  alt: "ICE Conference 2022"
+  title: "Join us in the IEEE ICE - IAMOT Conference 2022"
+  excerpt: '<p>In 2022, for the first time ever the ICE and IAMOT communities will work together, aiming to explore new ways to interact and come up with innovative solutions to the critical global issues of our time. The topic of the conference is:</p>
+  <b>Technology, Engineering, and Innovation Management Communities as Enablers for Social-Ecological Transitions</b>
+  <p>ICE-IAMOT IEEE ITMC conference includes distinguished keynote speakers. Those keynotes will participate in our panel sessions on Innovation through the use of Immersive Technologies and Artificial Intelligence. We were able to acquire a selection of thought leading innovation managers, CEOs, scholars, politicians, and entrepreneurs in these fields.</p>'
+  url: https://ice-iamot-2022-conference.org/
+  btn_label: "More Info"  
+  btn_class: "btn--success"
+
 ---
 
-{% include feature_row id="intro" type="center" %}
 
+{% include feature_row id="ICE" type="right"%}
+
+
+***
 
 The **ERPI (Research team on innovation process)** is one of the [University of Lorraine](http://univ-lorraine.fr) research labs.
 It is labeled as such by the French Ministry of Higher Education, Research and Innovation.
@@ -56,7 +69,7 @@ The scientific project of the ERPI deals with the Fuzzy Front-End off innovation
 {% include /ERPI/Posts-EN.html %}  
 
 
-## Our research platform 
+## Our research platform
 
 
 <a href="http://lf2l.fr/">
@@ -67,7 +80,7 @@ The **Lorraine Fab Living Lab® (LF2L®)** is a research platform of the ERPI La
 
 ## Research subjects
 
- Some topics of research are 
+ Some topics of research are
 
 - Innovation management
 - Use assessment
@@ -81,4 +94,3 @@ The **Lorraine Fab Living Lab® (LF2L®)** is a research platform of the ERPI La
 ## Networks
 
 {% include gallery %}
-
