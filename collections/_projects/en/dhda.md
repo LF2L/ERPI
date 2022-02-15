@@ -2,7 +2,7 @@
 title: Des Hommes et Des Arbres - Humans & Trees
 excerpt: "Territories of Innovation"
 header:
-  teaser: "/assets/images/projects/dhda/teaser1.png"
+  teaser: "/assets/images/projects/dhda/teaser1.jpg"
   overlay_image: "/assets/images/projects/dhda/banner.jpg"
 
 keywords: [smartgrid, capacity building, digitalization]
@@ -11,7 +11,7 @@ Field of application: [Renewable Energies]
 Funding: [FR]
 
 partners:
-  
+
 
 
 Industrial:
@@ -20,7 +20,7 @@ Industrial:
 ---
 
 [**"DHDA”** (Humans & Trees) project](https://www.deshommesetdesarbres.org/) involves more than 100 regional partners, the Living lab approach supports the network
-of “DHDA” relay structures and places with the public (e.g. [LF2L](http://lf2l.fr/), [Forest Inn Lab](https://factuel.univ-lorraine.fr/node/13837), [Citique](https://www.citique.fr/), etc.). 
+of “DHDA” relay structures and places with the public (e.g. [LF2L](http://lf2l.fr/), [Forest Inn Lab](https://factuel.univ-lorraine.fr/node/13837), [Citique](https://www.citique.fr/), etc.).
 
 DHDA is one of the 24 national winners of the French [PIA3 - Programme d'Investissement d'Avenir](https://www.prefectures-regions.gouv.fr/occitanie/Grands-dossiers/Le-programme-des-investissements-d-avenir-PIA) action **“Territoires d’innovation”**
 (Territories of Innovation).    
@@ -58,6 +58,3 @@ It covers: 5 Issues for innovative territories:
 ## Contact
 * **Laurent DUPONT**: l.dupont{at}univ-lorraine.fr
 * **Manon ENJOLRAS**: manon.enjolras{at}univ-lorraine.fr
-
-
-

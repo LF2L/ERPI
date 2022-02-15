@@ -15,7 +15,7 @@ Industrial:
 
 partners:
 - url: "https://erpi.univ-lorraine.fr"
-  image_path: "/assets/images/projects/noremat/logoerpi.jpg"
+  image_path: "/assets/images/ERPI.jpg"
 - url: "https://www.univ-lorraine.fr/"
   image_path: "/assets/images/logo/logoul.png"
 - url: "https://www.ensgsi.univ-lorraine.fr"

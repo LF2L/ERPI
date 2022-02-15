@@ -5,7 +5,7 @@ excerpt: "Design the Digital Twin of a Living Lab Project"
 last_modified_at: 2020-09-21
 author: Guillaume Prosnot
 header:
-  teaser: /assets/images/people/PHD/Guillaume-Prosnot.png
+  teaser: /assets/images/people/PHD/Guillaume-Prosnot.jpg
 
 orden: Prosnot
 role: PHD
@@ -35,4 +35,3 @@ Mauricio CAMARGO, Frédérique MAYER
 ## Funding
 
 SIMPPE / INEDIT Project
-
