@@ -41,6 +41,7 @@ ICE:
   title: "Join us in the IEEE ICE - IAMOT Conference 2022"
   excerpt: '<p>In 2022, for the first time ever the ICE and IAMOT communities will work together, aiming to explore new ways to interact and come up with innovative solutions to the critical global issues of our time. The topic of the conference is:</p>
   <b>Technology, Engineering, and Innovation Management Communities as Enablers for Social-Ecological Transitions</b>
+
   <p>ICE-IAMOT IEEE ITMC conference includes distinguished keynote speakers. Those keynotes will participate in our panel sessions on Innovation through the use of Immersive Technologies and Artificial Intelligence. We were able to acquire a selection of thought leading innovation managers, CEOs, scholars, politicians, and entrepreneurs in these fields.</p>'
   url: https://ice-iamot-2022-conference.org/
   btn_label: "More Info"  
