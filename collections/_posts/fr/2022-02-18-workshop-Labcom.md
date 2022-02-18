@@ -1,6 +1,6 @@
 ---
 title: Workshop N-Hum-Inno TEA+Techviz 
-date:   2022-02-18 06:00:00 -0600
+date:   2022-02-17 06:00:00 -0600
 
 excerpt: "Réalité virtuelle et Ergonomie : leviers de performance pour l'industrie 4.0 - Le 3 Mars 2022"
 ---
