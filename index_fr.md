@@ -46,10 +46,11 @@ ICE:
   - image_path: "/assets/images/ICE/Affiche-ICE.jpg"
     alt: "ICE-IAMOT Conference 2022"
     title: "Rejoignez-nous à la Conférence IEEE ICE - IAMOT 2022"
-    excerpt: "<p>En 2022, pour la première fois, les communautés de l'ICE et de l'IAMOT travailleront ensemble, dans le but d'explorer de nouvelles façons d'interagir et de trouver des solutions innovantes aux problèmes mondiaux critiques de notre époque. Le thème de la conférence est:</p>
-    <b>Technology, Engineering, and Innovation Management Communities as Enablers for Social-Ecological Transitions</b>
+    excerpt: "<p>En 2022, pour la première fois, les communautés ICE/ITMC et IAMOT spécialistes du Management de la Technologie, de l’Ingénierie et de l’Innovation mutualisent leur énergie et leur dynamisme pour faire face aux enjeux critiques de notre époque et faire émerger des solutions innovantes et partagées. Le thème de cette conférence internationale est :
 
-    <p>La conférence ICE/IEEE ITMC comprend des intervenants de premier plan. Ces orateurs participeront à nos sessions d'experts sur l'innovation par l'utilisation des technologies immersives et de l'intelligence artificielle. Nous avons réussi à obtenir une sélection de responsables de l'innovation, de PDG, d'universitaires, de politiciens et d'entrepreneurs de premier plan dans ces domaines.</p>"
+    <b>« Technology, Engineering, and Innovation Management Communities as Enablers for Social-Ecological Transitions »</b>
+
+    <p>Labélisée par IEEE (TEMS), la conférence conjointe 28ème ICE/ITMC et 31ème IAMOT s’inscrit dans les plus hauts standards scientifiques et rassemble des intervenants de premier plan dans leur domaine de recherche et d’expertise : responsables innovation, PDG, universitaires, élus locaux et régionaux, entrepreneurs, etc. Près de 300 participants du monde entier sont attendus à Nancy, France et en ligne.</p>"
     url: https://ice-iamot-2022-conference.org/
     btn_label: "Plus de détails"
     btn_class: "btn--success"
