@@ -1,12 +1,13 @@
 ---
-title: Workshop N-Hum-Inno TEA+Techviz 
-date:   2022-02-17 06:00:00 -0600
+title: Workshop N-Hum-Inno TEA+Techviz
+date: '2022-02-17T06:00:00.000-06:00'
+excerpt: 'Réalité virtuelle et Ergonomie : leviers de performance pour l''industrie
+  4.0 - Le 3 Mars 2022'
 
-excerpt: "Réalité virtuelle et Ergonomie : leviers de performance pour l'industrie 4.0 - Le 3 Mars 2022"
 ---
-
 **Réalité virtuelle et Ergonomie : leviers de performance pour l'industrie 4.0**
-- Le 3 Mars 2022 au Lorraine Fab Living Lab
+
+* Le 3 Mars 2022 au Lorraine Fab Living Lab
 
 La réalité virtuelle permet de réduire les coûts sur le long terme, de faire "Bon du Premier Coup" (First Time Good) et d'intégrer les acteurs dès les premières phases de conception de solutions.
 
@@ -17,12 +18,17 @@ En plaçant l'Homme au cœur des processus, elle permet également d'intervenir 
 **T.E.A. et TechViz** ont noué un partenariat afin d'offrir une solution innovante intégrée combinant réalité virtuelle et motion capture.
 Cette solution permet d'intégrer des modèles CAO dans des scènes virtuelles et d'y incorporer l'analyse de la posture de l'individu, son ergonomie et ses interactions avec l'environnement.
 
-
-Participez à notre Workshop et découvrez les utilisations et bénéfices de cette technologie unique grâce à des cas d'application concrets. 
-
+Participez à notre Workshop et découvrez les utilisations et bénéfices de cette technologie unique grâce à des cas d'application concrets.
 
 Afin de respecter les mesures sanitaires, nous vous proposons 2 sessions (10h-12h et 14h-16h) de 20 personnes maximum.
 
 Attention : l'inscription est gratuite mais obligatoire.
 
 [S'inscrire Ici!](https://my.weezevent.com/realite-virtuelle-et-ergonomie-levier-de-performance-pour-lindustrie-40)
+
+<iframe src="https://www.youtube-nocookie.com/embed/xffUTIM-3HU" frameborder="0" allowfullscreen=""></iframe>  
+
+---------------   
+
+
+![Partenaires](/assets/images/post/partenaires.png)
