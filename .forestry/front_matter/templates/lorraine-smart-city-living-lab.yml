@@ -36,5 +36,3 @@ fields:
   default: ''
   config:
     required: true
-pages:
-- collections/_projects/en/test-de-proyecto.md
