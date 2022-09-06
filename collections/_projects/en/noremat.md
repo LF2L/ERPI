@@ -32,7 +32,10 @@ Funding: [FR]
 
 # SAGID - Innovative roadside management
 
-## Global context
+
+
+<iframe width="100%" height="400" src="https://www.powtoon.com/embed/evWOEp1adMl/" frameborder="0" allowfullscreen></iframe>
+
 
 In a context where transport infrastructures are confronted with societal, territorial, political, technical and technological changes, it becomes essential to review their place in society. The construction and maintenance of transport infrastructure involves elements of assessment related to the economic role of transport, public safety and the living environment as well as the preservation of the environment. The consequences of the choices made, particularly in terms of spatial planning, have repercussions in the long term.   
 

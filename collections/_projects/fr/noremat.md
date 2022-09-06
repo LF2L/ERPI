@@ -34,7 +34,9 @@ Funding: [FR]
 
 # SAGID - Gestion innovante des bords de route
 
-## Contexte du projet
+
+<iframe width="100%" height="400" src="https://www.powtoon.com/embed/evWOEp1adMl/" frameborder="0" allowfullscreen></iframe>
+
 
 Dans un contexte où les infrastructures de transport sont confrontées à des évolutions d’ordres sociétales, territoriales, politiques, techniques et technologiques, il devient primordial de revoir leur place au sein de la société. La construction et l’entretien des infrastructures de transport impliquent des éléments d’appréciations liés au rôle économique des transports, à la sécurité publique et au cadre de vie ainsi qu’à la préservation de l’environnement. Les conséquences des choix effectués, notamment en termes d’aménagement de l’espace, se répercutent sur le long terme.   
 

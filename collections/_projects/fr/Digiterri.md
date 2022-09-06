@@ -1,5 +1,5 @@
 ---
-title: DigiTeRRI 
+title: DigiTeRRI
 excerpt: "Une approche responsable de la recherche et de l'innovation pour transformer les régions industrielles traditionnelles en territoires industriels numérisés"
 header:
   teaser: /assets/images/projects/digiterri/teaser.png
@@ -30,13 +30,13 @@ Industrial:
   alt: "Region Varmland"
 - url: "https://paperprovince.com"
   image_path: "/assets/images/projects/digiterri/paperprovince.png"
-  alt: "Paper Province" 
+  alt: "Paper Province"
 - url: "http://www.marketing-bruckmur.at"
   image_path: "/assets/images/projects/digiterri/bruckmur.png"
-  alt: "Marketing Bruckmur" 
+  alt: "Marketing Bruckmur"
 - url: "https://www.grandenov.fr"
   image_path: "/assets/images/projects/digiterri/grandenov.png"
-  alt: "Grand E-nov" 
+  alt: "Grand E-nov"
 
 
 partners:
@@ -57,9 +57,14 @@ last_modified_at: 2020-11-10
 Funding : [EU]
 ---
 
-## Contexte du projet 
+## Contexte du projet
+
+{% include video id="sbJ87jqij2U" provider="youtube" %}
 
 DigiTeRRI a été développé pour permettre à trois régions industrielles traditionnelles (Grand Est-France, Styrie - Autriche et Värmland - Suède) d'exploiter les possibilités offertes par la numérisation.  Le projet co-créé un cadre et des feuilles de route pour une transition responsable vers des écosystèmes de R&I industriels numérisés et autonomes. Il aborde les défis liés à l'interaction entre les entreprises, les universités, les gouvernements et la société afin d'initier l'ouverture, la responsabilité démocratique et la réactivité dans un processus favorisant la résilience au sein de ces nouveaux écosystèmes de R&I numérisés. Une approche RRI dans des domaines clés tels que l'égalité des sexes, l'éducation scientifique, le libre accès, l'engagement du public et l'éthique pendant le processus de numérisation aidera les organisations et les citoyens à s'adapter à la transformation qui révolutionne la recherche, l'industrie, l'économie et la société et peut garantir que les résultats du processus de numérisation s'alignent sur les valeurs et les besoins de la société pour satisfaire toutes les parties prenantes. L'implication précoce des groupes de parties prenantes, des utilisateurs et des citoyens dans le processus, en plus du développement de sources de connaissances supplémentaires ou alternatives, peut fournir une base de décision plus large. En outre, les chercheurs et l'industrie tirent des enseignements des besoins des utilisateurs, des citoyens, mais aussi des décideurs politiques.
+
+**Website:**:  [https://digiterri.eu/](https://digiterri.eu/)
+
 
 ## Objectifs de la recherche
 
@@ -79,11 +84,11 @@ L'objectif du programme Digiterri consiste à caractériser et à cartographier 
 
 ## Sites Internet
 
-<a href="https://digiterri.eu">![Digiterri]({{ site.baseimg }}/assets/images/projects/digiterri/digiterri.png){:height="35%" width="35%"}</a> 
+<a href="https://digiterri.eu">![Digiterri]({{ site.baseimg }}/assets/images/projects/digiterri/digiterri.png){:height="35%" width="35%"}</a>
 
 
 
-## Contacts 
+## Contacts
 * **Vincent BOLY**: vincent.boly{at}univ-lorraine.fr
 * **Brunelle MARCHE**: brunelle.marche{at}univ-lorraine.fr
 

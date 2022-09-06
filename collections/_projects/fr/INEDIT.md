@@ -19,11 +19,11 @@ partners:
   - image_path: "/assets/images/projects/inedit/partners/ENSAM.png"
     title: ''
     excerpt: "[École nationale supérieure d'arts et métiers](https://artsetmetiers.fr/)"
-  
+
   - image_path: "/assets/images/projects/inedit/partners/FIR.jpg"
     title: ''
     excerpt: "[FIR - Forschungsinstitut für Rationalisierung ](https://www.fir.rwth-aachen.de/)"
-  
+
   - image_path: "/assets/images/projects/inedit/partners/SUPSI.png"    
     title: ''
     excerpt: "[SUPSI - Scuola universitaria professionale della Svizzera Italiana](http://www.supsi.ch/home.html)"
@@ -74,6 +74,9 @@ published: True
 
 ## Global context
 
+{% include video id="eqy9ZLtw1as" provider="youtube" %}
+
+
 [INEDIT](https://www.inedit-project.eu/) (open INnovation Ecosystems for Do It Together process) est une action orientée innovation dans le cadre du programme H2020 de l'Union Européenne dès l'automne 2019 pour une durée de 36 mois. Le consortium mis en place est composé de 14 partenaires issus de 9 pays avec un financement de 6,4 M € sur les 36 mois aloués au projet (2019-2021). Le laboratoire ERPI accompagne le consortium avec ses compétences recherche sur l'innovation en particulier : conception d'un démonstrateur européen et expérimentation d'un écosystème local de recyclage du plastique.
 
 INEDIT crée un écosystème Do It Together européen d'innovation ouverte pour la co-création de mobilier durable. Il canalise la créativité des consommateurs, la façonne grâce aux compétences professionnelles des designers et la rend viable en s'appuyant sur l'expertise de spécialistes de la production afin de proposer de nouveaux produits durables, intelligents et personnalisés dans un délai de mise sur le marché plus court. INEDIT entend démontrer sa capacité à transformer la célèbre approche «Do It Yourself» (DIY) appliquée par les individus au sein des FabLabs en une approche professionnelle appelée «Do It Together» (DIT).
@@ -95,7 +98,7 @@ répondre aux besoins de l'utilisateur unique dans un contexte industriel.
 
 
 
-## Axes des travaux 
+## Axes des travaux
 
 1. **Gestion de projet**: WP1 apporte des ressources pour coordonner le projet INEDIT. Il s'assurera que les travaux sont effectués à temps et que les livrables sont produits comme prévu; il abordera la gestion des risques et de la qualité liés aux autres lots de travaux et s'assurera que le projet suit les questions d'éthique, de genre et de préférences individuelles.
 
@@ -138,10 +141,12 @@ Ce projet a reçu des financement de l'Union Européenne via le programme de rec
 
 ## Contacts
 
+**Website:**:  [https://www.inedit-project.eu/](https://www.inedit-project.eu/)
+
+
 - [**Laurent Dupont**](/people/Laurent-Dupont/): l.dupont{at}univ-lorraine.fr (Project Manager for UL)
 - [Frédérique Mayer](/people/Frederique-Mayer/)
 - [Brunelle Marche](/people/Brunelle-Marche/)
 - [Fedoua Kasmi](/people/Brunelle-Marche/)
 - [Hakim Boudaoud](/people/Hakim-Boudaoud/)
 - [Fabio Cruz](/people/Fabio-Cruz/)
-

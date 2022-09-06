@@ -72,16 +72,25 @@ published: True
 
 ## Global context
 
-The [INEDIT](https://www.inedit-project.eu/) (open INnovation Ecosystems for Do It Together process)  is an innovation-oriented action in the framework of the European Union's H2020 programme starting in autumn 2019 for a duration of 36 months. 
+{% include video id="eqy9ZLtw1as" provider="youtube" %}
+
+
+
+The [INEDIT](https://www.inedit-project.eu/) (open INnovation Ecosystems for Do It Together process)  is an innovation-oriented action in the framework of the European Union's H2020 programme starting in autumn 2019 for a duration of 36 months.
 The consortium set up is made up of 14 partners from nine countries with a funding of 6,4 M€ for 36 months (2019-2021). The ERPI laboratory supports the consortium with its research skills on innovation in particular: design of a European demonstrator and experimentation of a local plastic recycling ecosystem.
 
-INEDIT creates an open innovation European DIT ecosystem for sustainable furniture co-creation. 
-It channels the creativity of consumers, shapes it through designers’ professional skills, and makes it viable by leveraging on the expertise of production specialists in order to deliver sustainable, smart and personalized new products in a shorter time to market. 
-INEDIT intends to demonstrate the capacity to turn the well-known ‘Do It Yourself’ (DIY) approach applied by individuals within FabLabs into a professional approach named ‘Do It Together’ (DIT). 
+INEDIT creates an open innovation European DIT ecosystem for sustainable furniture co-creation.
+It channels the creativity of consumers, shapes it through designers’ professional skills, and makes it viable by leveraging on the expertise of production specialists in order to deliver sustainable, smart and personalized new products in a shorter time to market.
+INEDIT intends to demonstrate the capacity to turn the well-known ‘Do It Yourself’ (DIY) approach applied by individuals within FabLabs into a professional approach named ‘Do It Together’ (DIT).
 
 The DIT approach will be applied by customers and professional producers, especially SMEs, for conveying higher customer satisfaction through customer-driven production. DIT is a novel approach capitalizing on the knowledge, creativity and ideas of design and engineering conceptualized by interdisciplinary stakeholders and sometimes even new actors. It is powered by existing European innovation ecosystems shaping new products across EU countries. INEDIT demonstrates the approach through four cross use cases with high societal impact: sustainable wood panels manufacturing and 3D-printing of wood, 3D printing of recycled plastic ([see Green FabLab project](https://lf2l.fr/green-fablab/standard-protocol/)) and Smartification. Sustainability and consideration of individual preferences, especially of women and men, will be our guiding thread. INEDIT address societal challenges such as contribution to reduce the amount of produced CO2 in focusing on European-wide production, creation and maintenance of EU-wide job opportunities. This will lead to new business opportunities supported by business model innovation. Moreover, these innovative networked local manufacturing competences and production facilities across the EU will solve ethical concerns within the manufacturing network. INEDIT intends to demonstrate, through its twin - digital and physical - platform, the potential innovation around social manufacturing within the circular economy in designing global while producing local.
 
+
+
 {% include gallery id="posters"  %}
+
+
+
 
 
 ## Research Goal:
@@ -98,7 +107,7 @@ addressing the needs of the single user in an industrial context.
 
 
 
-## Working axis 
+## Working axis
 
 1. **Project Management**: WP1 brings resources to coordinate the INEDIT project. It will make sure the work is carried on time and deliverables are produced as planned; it will address the risk and quality management related to the other work packages and ensures the project keeps track regarding ethics, gender and individual preferences issues.
 
@@ -143,10 +152,12 @@ This project has received funding from the European Union’s Horizon 2020 resea
 
 ## Contact
 
+**Website:**:  [https://www.inedit-project.eu/](https://www.inedit-project.eu/) 
+
+
 - [**Laurent Dupont**](/people/Laurent-Dupont/): l.dupont{at}univ-lorraine.fr (Project Manager for UL)
 - [Frédérique Mayer](/people/Frederique-Mayer/)
 - [Brunelle Marche](/people/Brunelle-Marche/)
 - [Fedoua Kasmi](/people/Brunelle-Marche/)
 - [Hakim Boudaoud](/people/Hakim-Boudaoud/)
 - [Fabio Cruz](/people/Fabio-Cruz/)
-

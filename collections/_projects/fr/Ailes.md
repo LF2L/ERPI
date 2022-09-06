@@ -16,19 +16,27 @@ Research-field:
 
 Field of application:
   - Education     
-Funding: [Lorraine] 
+Funding: [Lorraine]
 
 last_modified_at: 2019-10-16  
 ---
 
-> Le but de ce projet est d’appliquer une demarche Living Lab pour co-créer avec les lycées, les services d’orientation et les universities des solutions numériques innovantes pour améliorer l’orientation des lycées. Le projet comporte également une phase de suivi de cohortes de Lycéens de la seconde à bac+2, pour la mise en place d’un observatoire qui utilisera des approches d’analyses des données et d’apprentissage en vue de soumettre les meilleures recommandations aux lycéens lors de leurs choix d’orientation.
+
+## Présentation du projet
+
+
+{% include video id="4a-joEYaM-8" provider="youtube" %}
+
+
+
+**Website:**:  <a href="https://www.projetailes.com">![Logo Ailes]({{ site.baseimg }}/assets/images/projects/Ailes/logoailes.png){: width="50px"}</a> [https://www.projetailes.com/](https://www.projetailes.com).
 
 
 
 ## Contexte du projet
-Le contexte du projet est le domaine de l’éducation et l’orientation. Les thématiques de recherche sont les approaches Living Lab, l’Intelligence Artificielle pour l’éducation (systèmes d’apprentissage et systèmes de recommendation)
+Le contexte du projet est le domaine de l’éducation et l’orientation. Les thématiques de recherche sont les approaches Living Lab, l’Intelligence Artificielle pour l’éducation (systèmes d’apprentissage et systèmes de recommendation). Le but de ce projet est d’appliquer une demarche Living Lab pour co-créer avec les lycées, les services d’orientation et les universities des solutions numériques innovantes pour améliorer l’orientation des lycées. Le projet comporte également une phase de suivi de cohortes de Lycéens de la seconde à bac+2, pour la mise en place d’un observatoire qui utilisera des approches d’analyses des données et d’apprentissage en vue de soumettre les meilleures recommandations aux lycéens lors de leurs choix d’orientation
 
-## Finalités du projet 
+## Finalités du projet
 
 - **Développer l’approche Living Lab dans le domaine de l’orientation. Développer des approches  d’Intelligence Artificielle pour assister les lycéens dans leurs processus d’orientation. .**
 
@@ -58,11 +66,8 @@ Le contexte du projet est le domaine de l’éducation et l’orientation. Les t
 <a href="http://www.univ-lorraine.fr">![Logo UL]({{ site.baseimg }}/assets/images/logo/logoul.png){:height="25%" width="25%"}</a>{: refdef}{:refdef: style="text-align: center;"}
 ![white space]({{ site.baseimg }}/assets/images/logo/blanc.png){:height="5%" width="5%"}{: refdef}{:refdef: style="text-align: center;"}
 <a href="https://www.utt.fr">![Logo UTT]({{ site.baseimg }}/assets/images/logo/utt.svg){:height="20%" width="20%"}</a>{: refdef}{:refdef: style="text-align: center;"}
-{: refdef} 
+{: refdef}
 
-## Site Internet du projet
-
-<a href="https://www.projetailes.com">![Logo Ailes]({{ site.baseimg }}/assets/images/projects/Ailes/logoailes.png){:height="35%" width="35%"}</a>
 
 
 ## Contact
