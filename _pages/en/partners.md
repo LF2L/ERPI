@@ -17,9 +17,10 @@ sidebar:
 
 ## Ferran Giones --- University of Southern Denmark, SDU Sønderborg
 
-### Conference: Building Technology Transfer Opportunities through scientist-students collaboration
+**Uncovering Technology Transfer Opportunities via Scientist-Students Collaboration by Ferran Giones**
 
-{% include video id="E6YcWu07uXk" provider="youtube" %}
+{% include video id="otcEIh--Q8M" provider="youtube" %}
+
 
 
 
@@ -40,7 +41,3 @@ sidebar:
 ### Conference: The innovation diffusion paradigm
 
 {% include video id="KMtcm1-z50s" provider="youtube" %}
-
-
-
-

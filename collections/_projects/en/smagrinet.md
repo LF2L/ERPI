@@ -49,7 +49,7 @@ partners:
   - image_path: "/assets/images/projects/smagrinet/erpi.png"
     url:  http://www.erpi.univ-lorraine.fr/
     title: ''
-    excerpt: "[Laboratoire ERPI](http://www.erpi.univ-lorraine.fr/)" 
+    excerpt: "[Laboratoire ERPI](http://www.erpi.univ-lorraine.fr/)"
 
 
 Industrial:
@@ -74,6 +74,8 @@ last_modified_at: 2020-08-26
 
 
 ## Global context
+
+{% include video id="vSpKB3VJoG4" provider="youtube" %}
 
 The EU aims to reduce its greenhouse gas emissions by 20% by the year 2020 and significantly more in the coming decades. This would require increasing the share of renewable energy in the electricity consumption of the EU countries however actual electricity grid is not flexible. The assumption of EU is that smart grid is the solution to reductions in emissions through improving grid efficiency, permitting further renewable energy usages and allowing further demand-side management. It requires to sensitized and train concerned actors and society concerning challenges and technologies.  
 
@@ -110,7 +112,7 @@ This project has received funding from the European Union’s Horizon 2020 resea
 
 <i class="far fa-id-card"></i> [CORDIS](https://cordis.europa.eu/project/id/837626)  
 
-##  Social Networks 
+##  Social Networks
 
 <i class="fab fa-twitter-square"></i> [SMAGRINET on Twitter](https://twitter.com/smagrinet)  
 

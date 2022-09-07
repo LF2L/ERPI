@@ -32,7 +32,7 @@ gallery:
     alt: ""
     title: "Climatelabs Kick-off / March 2020"
 
- 
+
 Research-field: [Design]
 Field of application: [Furniture]
 Funding: [EU]
@@ -40,11 +40,14 @@ Funding: [EU]
 
 ## Context
 
-Climate Labs cherche à renforcer les capacités de recherche appliquée et d'innovation de dix universités partenaires du Mexique, du Brésil et de la Colombie par la conception et la mise en œuvre de *Social Innovation Labs* pour l'atténuation et l'adaptation au changement climatique. En colaboration avec des universités d'Espagne, de France et d'Italie, le projet cherche à construire des laboratoires interdisciplinaires et multipartites qui institutionnaliseront la recherche appliquée et l'innovation pour le changement climatique dans les territoires où les partenaires sont insérés. 
+{% include video id="K2zO578dtok" provider="youtube" %}
 
-Sur une période de trois ans, le projet prévoit de former des universitaires, des étudiants et des membres du personnel en Amérique latine, qui formeront des équipes de leaders du changement, concevront et mettront en place des laboratoires en fonction des besoins, des forces, des défis et des caractéristiques des institutions et des territoires qu'ils servent. Au cours de cette période, chaque université mettra également en œuvre un projet pilote, se connectera aux réseaux internationaux pertinents ainsi qu'à d'autres institutions nationales, construira l'infrastructure physique et virtuelle du laboratoire et développera des stratégies pour la durabilité et l'extensibilité du projet. 
 
-Le projet vise, en fin de compte, à construire des domaines d'innovation et de recherche appliquée solides et connectés au sein des universités qui ont un impact sur les capacités et les stratégies globales des pays partenaires pour atténuer le changement climatique et s'y adapter. 
+Climate Labs cherche à renforcer les capacités de recherche appliquée et d'innovation de dix universités partenaires du Mexique, du Brésil et de la Colombie par la conception et la mise en œuvre de *Social Innovation Labs* pour l'atténuation et l'adaptation au changement climatique. En colaboration avec des universités d'Espagne, de France et d'Italie, le projet cherche à construire des laboratoires interdisciplinaires et multipartites qui institutionnaliseront la recherche appliquée et l'innovation pour le changement climatique dans les territoires où les partenaires sont insérés.
+
+Sur une période de trois ans, le projet prévoit de former des universitaires, des étudiants et des membres du personnel en Amérique latine, qui formeront des équipes de leaders du changement, concevront et mettront en place des laboratoires en fonction des besoins, des forces, des défis et des caractéristiques des institutions et des territoires qu'ils servent. Au cours de cette période, chaque université mettra également en œuvre un projet pilote, se connectera aux réseaux internationaux pertinents ainsi qu'à d'autres institutions nationales, construira l'infrastructure physique et virtuelle du laboratoire et développera des stratégies pour la durabilité et l'extensibilité du projet.
+
+Le projet vise, en fin de compte, à construire des domaines d'innovation et de recherche appliquée solides et connectés au sein des universités qui ont un impact sur les capacités et les stratégies globales des pays partenaires pour atténuer le changement climatique et s'y adapter.
 
 ## Objectifs
 
@@ -74,8 +77,7 @@ Co-funded by the Erasmus+ Programme of the European Union
 
 - [**Fabio Cruz**](/people/Fabio-Cruz/): (Project Manager for UL)
 - [Ferney Osorio](/people/Ferney-Osorio/)
-- [Laurent Dupont](/people/Laurent-Dupont/) 
+- [Laurent Dupont](/people/Laurent-Dupont/)
 - [Mauricio Camargo](/people/Mauricio-Camargo/)
 - [Laure Morel](/people/Laure-Morel/)
 - [Claudine Guidat](/people/Claudine-Guidat/)
-

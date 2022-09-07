@@ -1,5 +1,5 @@
 ---
-title: Chaire Airbus-Université de Lorraine 
+title: Chaire Airbus-Université de Lorraine
 excerpt: "Ingénierie de systèmes basée sur des modèles supportant la décision et la collaboration, dignes de confiance et exécutables"
 header:
   teaser: /assets/images/projects/Airbus/apercu.png
@@ -9,7 +9,7 @@ keywords: [Ingénierie système; verification et validation au plus tôt; adopti
 
 Field of application:
   - Industry 4.0
- 
+
 
 Research-field: Acceptability
 
@@ -38,13 +38,19 @@ Funding : [FR]
 
 ![Logo acteurs de la chaire](/assets/images/projects/Airbus/Logos.jpg)
 
-## Contexte du projet 
+
+
+## Contexte du projet
+
+{% include video id="EoRx4bvRI_w" provider="youtube" %}
+
+
 
 La chaire Airbus-Université de Lorraine est un projet de recherche et d’enseignement, engagé pour 5 ans, de 2021 à 2025.  
 
 **Elle entend contribuer au programme ambitieux d’Airbus, de transformation digitale de sa R&D, qui a débuté il y a deux ans** (DDMS : Digital Design Manufacturing & Services).  
- 
-Airbus est un leader reconnu dans le domaine de l’ingénierie des systèmes complexes (ex : avion, hélicoptère, satellite, lanceur…). 
+
+Airbus est un leader reconnu dans le domaine de l’ingénierie des systèmes complexes (ex : avion, hélicoptère, satellite, lanceur…).
 Pour répondre à de nouveaux challenges industriels et écologiques, Airbus doit encore progresser dans ce domaine, en augmentant, par un facteur 10, le nombre d’experts et d’ingénieurs expérimentés en ingénierie système.
 
 ## Objectifs de la recherche
@@ -52,8 +58,8 @@ Pour répondre à de nouveaux challenges industriels et écologiques, Airbus doi
 **Cette chaire vise à élaborer une méthodologie d’Ingénierie Système** (IS), **basée sur des modèles** (ou MBSE – Model-Based Systems Engineering) **exécutables, généralisable sur les ingénieries des systèmes avion, de production et de soutien et à en préparer la diffusion**.  
 
 Le titulaire et le co-titulaire de la chaire sont Eric Bonjour (laboratoire ERPI) et Eric Levrat (laboratoire CRAN, UMR CNRS 7039), professeurs à l’Université de Lorraine.  
-Ils ont réuni autour d’eux une équipe composée de deux membres du laboratoire ERPI (Frédérique Mayer et Alaa Hassan) et trois membres du laboratoire CRAN (David Gouyon, Pascale Marangé, Alexis Aubry). 
-Ces enseignants-chercheurs partagent des expertises complémentaires sur la chaire, en MBSE, en soutien logistique intégré, en industrie 4.0 et en adoption d’innovations. 
+Ils ont réuni autour d’eux une équipe composée de deux membres du laboratoire ERPI (Frédérique Mayer et Alaa Hassan) et trois membres du laboratoire CRAN (David Gouyon, Pascale Marangé, Alexis Aubry).
+Ces enseignants-chercheurs partagent des expertises complémentaires sur la chaire, en MBSE, en soutien logistique intégré, en industrie 4.0 et en adoption d’innovations.
 Ils ont su gagner la confiance d’Airbus de par leur rayonnement national et international en ingénierie système, tant en recherche qu’en enseignement, depuis maintenant 15 ans et de par de nombreuses collaborations passées avec des ingénieurs de cette grande entreprise.  
 
 Trois thèses seront lancées au cours de cette chaire sur les thèmes suivants :
@@ -76,7 +82,7 @@ Ainsi, cette chaire offre une plateforme d’échanges et d’accumulation d’e
 
 <a href="http://www.cran.univ-lorraine.fr">![CNRS logo]({{ site.baseimg }}/assets/images/projects/Airbus/logocnrs.jpg){:height="25%" width="25%"}</a>
 
-## Partenaires industriels 
+## Partenaires industriels
 
 <a href="https://www.airbus.com">![Airbus logo]({{ site.baseimg }}/assets/images/projects/Airbus/logoairbus.png){:height="25%" width="25%"}</a>
 

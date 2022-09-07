@@ -90,7 +90,7 @@ The **Lorraine Fab Living Lab® (LF2L®)** is a research platform of the ERPI La
 
 ## Academic partners
 
-{% include gallery id="academic" %}
+{% include feature_row id="academic" %}
 
 ## Networks
 

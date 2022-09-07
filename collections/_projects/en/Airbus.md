@@ -1,5 +1,5 @@
 ---
-title: Airbus-Université de Lorraine research chair 
+title: Airbus-Université de Lorraine research chair
 excerpt: "ACTE MBSE - Actionable Collaborative Trustworthy Executable Model-Based Systems Engineering"
 header:
   teaser: /assets/images/projects/Airbus/apercu.png
@@ -9,7 +9,7 @@ keywords: [MBSE; early verification and validation; adoption of methodological i
 
 Field of application:
   - Industry 4.0
- 
+
 
 Research-field: Acceptability
 
@@ -17,10 +17,15 @@ Research-field: Acceptability
 Funding : [FR]
 ---
 
-![Logo acteurs de la chaire](/assets/images/projects/Airbus/Logos.jpg) 
+![Logo acteurs de la chaire](/assets/images/projects/Airbus/Logos.jpg)
 
 
 ## Global context
+
+[Video in French]
+
+{% include video id="EoRx4bvRI_w" provider="youtube" %}
+
 
 The Airbus-Université de Lorraine Chair is a research and educational project, contracted for five years, from 2021 to 2025.  
 
@@ -61,7 +66,7 @@ Thus, it provides a platform for exchanges and the accumulation of expertise on 
 
 <a href="http://www.cran.univ-lorraine.fr">![CNRS logo]({{ site.baseimg }}/assets/images/projects/Airbus/logocnrs.jpg){:height="25%" width="25%"}</a>
 
-## Indutrial partners 
+## Indutrial partners
 
 <a href="https://www.airbus.com">![Airbus logo]({{ site.baseimg }}/assets/images/projects/Airbus/logoairbus.png){:height="25%" width="25%"}</a>
 

@@ -32,7 +32,7 @@ gallery:
     alt: ""
     title: "Climatelabs Kick-off / March 2020"
 
- 
+
 Research-field: [Design]
 Field of application: [Furniture]
 Funding: [EU]
@@ -40,11 +40,13 @@ Funding: [EU]
 
 ## Context
 
-Climate Labs seeks to strengthen the applied research and innovation capacities of ten partner universities from Mexico, Brazil and Colombia through the design and implementation of Social Innovation Labs for mitigation and adaptation to Climate Change. In a network with Universities from Spain, France, and Italy, plus Ashoka as a non-academic expert partner, the project seeks to build interdisciplinary and multi-stakeholder labs that will institutionalize the applied research and innovation for climate change in the territories the partners are inserted. 
+{% include video id="K2zO578dtok" provider="youtube" %}
 
-In a term of three years, the project expects to train scholars, students and staff members in Latin America, who will form changemaker leader teams, design and implement labs according to the needs, strengths, challenges and characteristics of the institutions and territories they serve. In this period, each university will also implement a pilot project, get connected with international relevant networks as well as other national institutions, build the physical and virtual infrastructure of the lab, and develop strategies for the sustainability and scalability of the project. 
+Climate Labs seeks to strengthen the applied research and innovation capacities of ten partner universities from Mexico, Brazil and Colombia through the design and implementation of Social Innovation Labs for mitigation and adaptation to Climate Change. In a network with Universities from Spain, France, and Italy, plus Ashoka as a non-academic expert partner, the project seeks to build interdisciplinary and multi-stakeholder labs that will institutionalize the applied research and innovation for climate change in the territories the partners are inserted.
 
-The project seeks, ultimately, to build strong and connected areas of innovation and applied research  within universities impacting in the overall capacities and strategies of the partner countries to mitigate and adapt to climate change. 
+In a term of three years, the project expects to train scholars, students and staff members in Latin America, who will form changemaker leader teams, design and implement labs according to the needs, strengths, challenges and characteristics of the institutions and territories they serve. In this period, each university will also implement a pilot project, get connected with international relevant networks as well as other national institutions, build the physical and virtual infrastructure of the lab, and develop strategies for the sustainability and scalability of the project.
+
+The project seeks, ultimately, to build strong and connected areas of innovation and applied research  within universities impacting in the overall capacities and strategies of the partner countries to mitigate and adapt to climate change.
 
 
 ## Goals
@@ -76,8 +78,7 @@ Co-funded by the Erasmus+ Programme of the European Union
 
 - [**Fabio Cruz**](/people/Fabio-Cruz/): (Project Manager for UL)
 - [Ferney Osorio](/people/Ferney-Osorio/)
-- [Laurent Dupont](/people/Laurent-Dupont/) 
+- [Laurent Dupont](/people/Laurent-Dupont/)
 - [Mauricio Camargo](/people/Mauricio-Camargo/)
 - [Laure Morel](/people/Laure-Morel/)
 - [Claudine Guidat](/people/Claudine-Guidat/)
-
