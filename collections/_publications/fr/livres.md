@@ -6,18 +6,10 @@ toc_label: "Year"
 last_modified_at: 2018-09-10
 ---
 
-## 2021 (prochainnement)
+## 2022
 
 
-C'est la diversité culturelle des pays d'Europe qui nous à inspiré pour explorer ce qui unit les approches du management de l'innovation et comment elles différes. 
 
-Nous invitons les universaitaires a contribuer aux chapitres qu'ils soient conceptuels, positionnels, empiriques ou bien comparatifs afin de regarder les caractéristiques spécifiques de l'innovation dans des contextes régionaux, nationaux et transnationaux au sein de l'Europe. 
-
-Nous attendons vivement de recevoir des chapitres sur les approches nordiques, anglo-saxonnes, nippon-rhénanes, méditerranéennes, d'Europe de l'Est, etc. en matière de gestion de l'innovation et de son cadrage; cependant, les perspectives de ce livre ne se limitent pas à celles-ci. Bien qu'il y ait eu des études à ce sujet, elles n'ont pas été rassemblées dans un même ouvrage.  
-
-Vous pouvez obtenir plus d'information sur ce projet en visitant le [site Internet dédié](https://european-perspectives-innovation-management.eu)  . 
-
-*Les chapitres sont à soumettre en anglais.*
 
 ## 2017
 
@@ -26,12 +18,12 @@ Boly V., Morel L, Camargo M. [Innovation management: twenty-three years of highe
 A Gabriel, D Monticolo, M Camargo, M Bourgault. (2017) **Conceptual Framework of an Intelligent System to Support Creative Workshops.** 261-284. Springer International Publishing AG 2017 261 D. Cavallucci (ed.), TRIZ – The Theory of Inventive Problem Solving, DOI 10.1007/978-3-319-56593-4_11 [Details](https://link.springer.com/chapter/10.1007/978-3-319-56593-4_11)
 
 ## 2016
- 
+
 | ![Ingenierie de l'innovation](https://images.lavoisier.net/couvertures/1316908938.jpg "Ingenierie de l'innovation") |   Boly V., Camargo M., Morel L. **Ingenierie de l'innovation 3émé Edition.** Lavoisier 09-2016, 288 p. Broché [Details](http://www.lavoisier.fr/livre/economie/ingenierie-de-l-innovation-et-projets-innovants-3e-ed/boly/descriptif-9782746247475) |
 
 | ![Fab_Labs](https://media.wiley.com/product_data/coverImage300/29/18482187/1848218729.jpg "Fab_Labs") |   Morel L., Leroux S. **Fab Labs: Innovative user** John Wiley & Sons, 30 juin 2016 - 146 pages [Details](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1848218729.html) |
 
-Morel L., Leroux S. **Fab Labs : L’usager Innovateur**, Série Smart innovation coordonnée par Dimitri Uzunidis. ISTE Editions. Collection Innovation, entrepreneuriat et gestion 126 pages. ISBN : 978-1-78405-128-0 (papier) ISBN : 978-1-78405-128-9 (E-Book). [Détails](http://iste-editions.fr/collections/nouveautes/products/fab-labs) 
+Morel L., Leroux S. **Fab Labs : L’usager Innovateur**, Série Smart innovation coordonnée par Dimitri Uzunidis. ISTE Editions. Collection Innovation, entrepreneuriat et gestion 126 pages. ISBN : 978-1-78405-128-0 (papier) ISBN : 978-1-78405-128-9 (E-Book). [Détails](http://iste-editions.fr/collections/nouveautes/products/fab-labs)
 
 Auvray, G., Bocquet, J.-C., Bonjour, E., Krob, D. (Eds.), **Complex Systems Design & Management, Proceedings of the Sixth International Conference on Complex Systems Design & Management, CSD&M 2015,** Springer International Publishing Switzerland, DOI: 10.1007/978-3-319-26109-6 - publication date: 2015-11-21
 
@@ -53,7 +45,7 @@ Morel L, Camargo M, Boly V. **Comment réusir le pilotage d’un projet d’inno
 
 Boudaoud H., Boly V. Démocratisation de la fabrication additive : impression 3D et FabLabs. Dans C. Barlier, A. Bernard. Collection: Technique et Ingénierie, Dunod. 2015 - 416 pages - 170x240 mm. EAN13 : 9782100711390 [Détails](http://www.dunod.com/sciences-techniques/sciences-techniques-industrielles/genie-mecanique/fabrication-additive)
 
-## 2014 
+## 2014
 
 P. Mauborgne, S. Deniaud, E. Levrat, E. Bonjour, J-P. Micaëlli, D. Loise, **Preliminary Hazard Analysis Generation Integrated with Operational Architecture-Application to Automobile,** In Complex Systems Design & Management, pp. 297-309, 2014, Springer International Publishing
 
@@ -88,7 +80,6 @@ I Lahoud, D Monticolo, V Hilaire, S Gomes, E Bonjour, **A Multi-Sources Knowledg
 
 E. Bonjour, S. Deniaud, D. Loise, JP. Micaëlli, **L’ingénierie système fondée sur les modèles ?**, In " Modélisation et activités des ingénieurs ", L’Harmattan, Collection Ingénium (Sous la coordination de Ludovic BOT et Marie-Laure VITALI), décembre 2011. ISBN : 978-2-296-56626-2.
 
-JP. Micaëlli, E. Bonjour, [Are Skill Design Structure Matrices New Tools for Automotive Design Managers?](www.intechopen.com/download/pdf/pdfs_id/13338), In "New Trends and Developments in Automotive Industry", INTECH, pp. 255-264, 2011, 
+JP. Micaëlli, E. Bonjour, [Are Skill Design Structure Matrices New Tools for Automotive Design Managers?](www.intechopen.com/download/pdf/pdfs_id/13338), In "New Trends and Developments in Automotive Industry", INTECH, pp. 255-264, 2011,
 
 Potier O., Camargo M. Chapitre 11. **Innover dans les industries de procédés.** Dans Le génie des procédés et l’entreprise série génie des procédés Egem. Sous la direction de J.P Dal Pont. Hermes Science Publications, Paris, Septembre, (2011). ISBN 78-2746231566
-

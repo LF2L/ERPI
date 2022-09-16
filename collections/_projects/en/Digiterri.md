@@ -94,6 +94,9 @@ The objective of the Digiterri programme is to characterise and map the three cu
 * **Brunelle MARCHE**: brunelle.marche{at}univ-lorraine.fr
 
 
-
-
  *Timming of the project: 01/01/2020 - 31/12/2022*
+
+
+## Some additional information
+
+{% include video id="Hqjzg67DHPY" provider="youtube" %}

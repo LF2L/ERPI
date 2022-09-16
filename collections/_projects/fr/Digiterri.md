@@ -93,6 +93,8 @@ L'objectif du programme Digiterri consiste à caractériser et à cartographier 
 * **Brunelle MARCHE**: brunelle.marche{at}univ-lorraine.fr
 
 
+*Les dates du projet : 01/01/2020 - 31/12/2022*
 
+## Pour plus d'information sur RRI
 
- *Les dates du projet : 01/01/2020 - 31/12/2022*
+{% include video id="Hqjzg67DHPY" provider="youtube" %}
