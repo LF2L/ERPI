@@ -44,7 +44,7 @@ Contributions are invited to address one or more of the following themes (withou
 ## Submission instructions
 
 ![RRI-Special-Issue](/assets/images/RRI/Cover3.jpg){: .align-left}
-Full papers should be **submitted by 31 July 2023 on the Submission Portal**.
+Full papers should be **submitted by 31 July 2023 on the [Submission Portal](https://accounts.taylorfrancis.com/identity/#/login)**.
 Please indicate upon submission that you aim to be included in this special issue. 
 Accepted papers will be immediately published online. 
 
@@ -53,7 +53,7 @@ Instructions for authors: [Instructions for Authors](https://www.tandfonline.com
 The *Journal of Responsible Innovation* metrics for 2020 include: **4.034 Impact Factor**, **Q1 Impact Factor Best Quartile**, and **Q1 Cite Score Best Quartile**.
 In 2021 JRI had 177K annual downloads/views. 
 As a fully Open Access journal, JRI can provide a limited number of article processing fee waivers / reductions for authors from beyond Europe and North America, and for lead authors from any country who are early career researchers (i.e., within 5 years of obtaining their PhD).
-Find out more about article publishing charges and funding options.
+Find out more about article [publishing charges and funding options](https://authorservices.taylorandfrancis.com/publishing-open-access/).
 
 **Contacts:**
 
