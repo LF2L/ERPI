@@ -1,10 +1,14 @@
 ---
-title: Journal of Responsible Innovation – Special issue
-excerpt: 'Call for papers: Technology, Engineering, and Innovation Management Communities as Enablers for Responsible Research and Innovation. <br> Guest editors: Vincent Boly, Fedoua Kasmi, Mauricio Camargo
-Université de Lorraine, ERPI F-54000 Nancy, France'
-post_teaser: "/assets/images/RRI/Cover3.jpg"
----
+title: "Technology, Engineering, and Innovation Management Communities as Enablers for Responsible Research and Innovation"
+excerpt: "Special issue: Journal of Responsible Innovation "
+permalink: /publications/special-issues/
+header:
+  teaser: /assets/images/RRI/Cover.png
+  overlay_image: /assets/images/RRI/Cover4.jpg
 
+classes: wide
+last_modified_at: 2022-11-28
+---
 
 ## Responsible Research and Innovation
 

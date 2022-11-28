@@ -26,6 +26,8 @@ main:
 publications:
   - title: "ERPI Publications"
     children:
+      - title: "Call for Publications"
+        url: /publications/special-issues/
       - title: "Articles"
         url: /publications/articles/
       - title: "Conferences"
