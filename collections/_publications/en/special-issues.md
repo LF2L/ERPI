@@ -10,7 +10,7 @@ classes: wide
 last_modified_at: 2022-11-28
 ---
 
-## Responsible Research and Innovation
+## Responsible Research and Innovation
 
 The concept of Responsible Research and Innovation (RRI) has gained political relevance in recent years, particularly in the OECD and the European Commission projects (von Schomberg, 2013).
 Integrating environmental and social concerns into engineering and technology management, the RRI concept provides a possible response to the current challenges of sustainable development.
@@ -65,7 +65,7 @@ Vincent Boy (vincent.boly{@}univ-lorraine.fr), Fedoua Kasmi (fedoua.kasmi{@}univ
 
 
 
-## Bibliographic references
+## Bibliographic references
 
 
 - Brand, T., & Blok, V. (2019). Responsible innovation in business: A critical reflection on deliberative engagement as a central governance mechanism. Journal of responsible innovation, 6(1), 4-24.
