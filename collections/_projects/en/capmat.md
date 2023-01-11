@@ -5,7 +5,7 @@ header:
   teaser: "/assets/images/projects/capmat/teaser.jpg"
   overlay_image: "/assets/images/projects/capmat/banner.png"
 
-last_modified_at: 2019-10-16
+last_modified_at: 2022-12-02
 
 keywords:
   - Need analysis
@@ -39,13 +39,6 @@ Industrial:
       excerpt: "[IS (Institut de Soudure)](https://www.isgroupe.com/)"
 ---
 
-{:refdef: style="text-align: center;"}
-<a href="https://www.europe-en-france.gouv.fr/en/european-funds/european-regional-development-fund-ERDF">![European Regional Development Fund Logo]({{ site.baseimg }}/assets/images/projects/capmat/feder.jpg){:height="60%" width="60%"}</a>{: refdef}{:refdef: style="text-align: center;"}
-{: refdef}  
-
-{:refdef: style="text-align: center;"}
-The CAP-MAT project is est co-financed by the European Union with European Regional Development Fund to the tune of 68 850 €
-{: refdef}
 
 
 ## Global context
@@ -76,8 +69,19 @@ Based on the knowledge of the multidisciplinary team, a first selection of senso
 
 {% include feature_row id="Industrial" %}
 
-# Contact
+## Contact
 
 - **Vincent Boly**: vincent.boly{at}univ-lorraine.fr
 - **Alaa Hassan**: alaa.hassan{at}univ-lorraine.fr
 - **Fatima Ezzahra**: Hamdani: fatima-ezzahra.hamdani{at}univ-lorraine.fr
+
+
+## Funding 
+
+The CAP-MAT project is est co-financed by the European Union with European Regional Development Fund to the tune of 68 850 €
+
+- Timming of the project: 01/01/2019 au 31/12/2022
+- Budget of the project: 929 412.85€
+- FEDER Contributions : 551 495.85€
+
+![image-right](/assets/images/projects/capmat/EU-Capmat.png){: .align-left}
