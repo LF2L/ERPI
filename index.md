@@ -26,10 +26,11 @@ gallery:
   image_path: "/assets/images/partners/RNI.jpg"
   alt: placeholder image 2
   title: Research Network on Innovation
-- url: http://www.iceel.eu/
+- url: https://carnot-iceel.fr/
   image_path: "/assets/images/partners/ICEEL.jpg"
   alt: Institute Carnot ICEEL
   title: Institute Carnot ICEEL
+
 - url: https://enoll.org/
   image_path: "/assets/images/partners/ENOLL.svg"
   alt: Eurpean Networks of Living labs

@@ -2,8 +2,8 @@
 title: SusChemPROC
 excerpt: "Chimie et Procédés Durables au Service des Industries Lorraines"
 header:
-  teaser: "/assets/images/projects/3D-soil-test/teaser2.jpg"  
-  overlay_image: /assets/images/projects/suschemproc/image.png  
+  teaser: "/assets/images/projects/suschemproc/image.png"    
+  overlay_image: "/assets/images/projects/suschemproc/image.png"  
 Research-field: [Design]
 Funding: [EU] 
 

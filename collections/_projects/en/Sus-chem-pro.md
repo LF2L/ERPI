@@ -1,9 +1,9 @@
 ---
 title: SusChemPROC
-excerpt: "Sustainable Chemical and Process for Lorraine Industries"
+excerpt: "Sustainable Chemical and Processes for Lorraine Industries"
 header:
-  teaser: "/assets/images/projects/3D-soil-test/teaser2.jpg"  
-  overlay_image: /assets/images/projects/3D-soil-test/banner1.jpg  
+  teaser: "/assets/images/projects/suschemproc/image.png" 
+  overlay_image: "/assets/images/projects/suschemproc/image.png"  
 Research-field: [Design]
 Funding: [EU]
 
