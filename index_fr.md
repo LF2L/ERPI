@@ -32,7 +32,7 @@ gallery:
     alt: "placeholder image 2"
     title: "Research Network on Innovation"
 
-  - url: http://www.iceel.eu/
+  - url: https://carnot-iceel.fr/
     image_path: /assets/images/partners/ICEEL.jpg
     alt: "Institute Carnot ICEEL"
     title: "Institute Carnot ICEEL"

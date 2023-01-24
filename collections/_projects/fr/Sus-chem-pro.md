@@ -13,6 +13,7 @@ last_modified_at: 2018-11-21
 
 ## Contexte du projet
 
+![image-right](/assets/images/projects/suschemproc/feder.jpg){: .align-left}
 Le projet CPER SusChemProc consiste à développer des produits et des matériaux non métalliques, performants et à propriétés et structures contrôlées, afin d’améliorer les procédés de transformation de la matière en termes d’efficacité et de durabilité, pour une industrie lorraine plus compétitive.
 Ce projet, qui associe 50 industriels, comporte 3 axes :
 

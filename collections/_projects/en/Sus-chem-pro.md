@@ -13,6 +13,8 @@ last_modified_at: 2018-11-21
 
 ## Global context 
 
+![image-right](/assets/images/projects/suschemproc/feder.jpg){: .align-left}
+
 The CPER SusChemProc project consists in developing products and non-metallic materials with controlled properties and structures, in order to improve the material transformation processes in terms of efficiency and durability, for a more competitive industry in Lorraine.
 This project, which brings together 50 industrialists, has three main areas of focus:
 

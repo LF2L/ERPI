@@ -26,6 +26,7 @@ gallery:
   image_path: "/assets/images/partners/RNI.jpg"
   alt: placeholder image 2
   title: Research Network on Innovation
+
 - url: https://carnot-iceel.fr/
   image_path: "/assets/images/partners/ICEEL.jpg"
   alt: Institute Carnot ICEEL
