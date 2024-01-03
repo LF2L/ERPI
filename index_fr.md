@@ -57,20 +57,6 @@ ICE:
 
 ---
 
-## Merci de partager avec nous la conférence IEEE ICE - IAMOT 2022.
-
-En 2022, pour la première fois, les communautés de l'ICE et d'IAMOT ont travaillé ensemble, dans le but d'explorer de nouvelles façons d'interagir et de trouver des solutions innovantes aux problèmes mondiaux critiques de notre époque.
-Le thème de la conférence a été :
-**Technology, Engineering, and Innovation Management Communities as Enablers for Social-Ecological Transitions**<br>
-
-<p style="text-align: center;" >
-<a data-flickr-embed="true" data-footer="false" href="https://www.flickr.com/photos/195910988@N02/albums/72177720301970952" title="IEEE ICE - IAMOT Conference 2022"><img src="https://live.staticflickr.com/65535/52169487458_a90614d75f_z.jpg" width="40%" height="auto" alt="IEEE ICE - IAMOT Conference 2022"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-</p>
-
-
-
-***
 
 **L’ERPI (Équipe de Recherche sur les Processus Innovatifs)** est un des laboratoires de [l'Université de Lorraine](http://univ-lorraine.fr), labellisé Équipe d’Accueil (EA n° 3767) par le Ministère de l’Enseignement Supérieur et de la Recherche.
 L'ERPI est membre de la **FR 2863 : Fédération de Recherche Jacques Villermaux pour la Mécanique, l'Energie, les Procédés (FR JV)** et est rattaché au pole scientifique EMPP - Énergie, Mécanique, Procédés, Produits.

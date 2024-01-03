@@ -8,7 +8,7 @@ header:
   teaser: /assets/images/people/PHD/Anaelle-Hily.jpg
 
 orden: Hily
-role: PHD
+role: IR
 ---
 
 ## Background  

@@ -7,6 +7,6 @@ author: Aurianne Rainot
 header:
   teaser: "/assets/images/people/Aurianne-Rainot.png"
 orden: Rainot
-role: Admin
+role: ex
 
 ---

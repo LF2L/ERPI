@@ -8,7 +8,7 @@ header:
   teaser: /assets/images/people/Hakim-Boudaoud.jpg
 
 orden: Boudaoud
-role: MCF
+role: Prof
 ---
 
 Hakim Boudaoud

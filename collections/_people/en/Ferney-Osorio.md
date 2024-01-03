@@ -8,7 +8,7 @@ header:
   teaser: /assets/images/people/PHD/Ferney-Osorio.jpg
 
 orden: Osorio
-role: PHD
+role: IR
 ---
 
 ## Background

@@ -8,7 +8,7 @@ header:
   teaser: /assets/images/people/Brunelle-Marche.jpg
 
 orden: Marche
-role: IR
+role: MCF
 
 tags: [Supply Chain Design , Innovation , Modeling , Strategy , Agility]
 ---

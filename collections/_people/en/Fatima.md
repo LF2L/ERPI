@@ -8,7 +8,7 @@ header:
   teaser: /assets/images/people/Woman.jpg
 
 orden: HAMDANI
-role: IR
+role: ex
 last_modified_at: 2019-04-08
 ---
 

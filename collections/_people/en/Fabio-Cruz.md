@@ -8,7 +8,7 @@ header:
   teaser: /assets/images/people/Fabio.jpg
 
 orden: Cruz
-role: IR
+role: MCF
 
 categories:
   - Fuzzy Front-End Innovation

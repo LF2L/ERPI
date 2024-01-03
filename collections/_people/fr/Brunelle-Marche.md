@@ -8,7 +8,7 @@ header:
   teaser: /assets/images/people/Brunelle-Marche.jpg
 
 orden: Marche
-role: IR
+role: MCF
 ---
 
 Brunelle est ingénieure et docteure en Génie Industriel. Ses recherches portent sur la conception de filière et notamment sur l’importance d’une approche combinée prospective et optimisation multi-échelle dans la conception d’une filière pour répondre aux exigences de plus en plus complexe d’un nouveau produit. Son travail combine ingénierie de l’innovation et ingénierie système afin de proposer des outils facilitant la conception et la mise en oeuvre de filière.  Dans le cadre de sa recherche, elle a collaboré avec l’Université de Delft.

@@ -8,7 +8,7 @@ header:
   teaser: /assets/images/people/Juliana-Serna.jpg
 
 orden: Serna
-role: IR
+role: ex
 ---
 
 Postdoctoral researcher at the ERPI laboratory (Research Team on Innovative Processes) of the University of Lorraine since October 2019.

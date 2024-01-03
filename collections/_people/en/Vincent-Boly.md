@@ -8,7 +8,7 @@ header:
   teaser: /assets/images/people/Vincent-Boly.jpg
 
 orden: Boly
-role: Prof
+role: ex
 
 tags:
   - Innovation metrology

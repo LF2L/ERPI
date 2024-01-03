@@ -50,23 +50,6 @@ ICE:
 ---
 
 
-## Thanks for share with us the IEEE ICE - IAMOT Conference 2022
-
-In 2022, for the first time ever the ICE and IAMOT communities worked together, aiming to explore new ways to interact and come up with innovative solutions to the critical global issues of our time.
-The topic of the conference was:
-
-**Technology, Engineering, and Innovation Management Communities as Enablers for Social-Ecological Transitions**<br>
-
-<p style="text-align: center;">
-
-<a data-flickr-embed="true" data-footer="false" href="https://www.flickr.com/photos/195910988@N02/albums/72177720301970952" title="IEEE ICE - IAMOT Conference 2022"><img src="https://live.staticflickr.com/65535/52169487458_a90614d75f_z.jpg" width="40%" height="auto" alt="IEEE ICE - IAMOT Conference 2022"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-
-</p>
-
-
-***
-
 The **ERPI (Research team on innovation process)** is one of the [University of Lorraine](http://univ-lorraine.fr) research labs.
 It is labeled as such by the French Ministry of Higher Education, Research and Innovation.
 ERPI is a founding member of the Jacques Villermaux Federation and linked to the EMPP scientific axis.

@@ -6,7 +6,7 @@ author: Pascal Lhoste
 header:
   teaser: "/assets/images/people/PL.jpg"
 orden: Lhoste
-role: Prof
+role: ex
 last_modified_at: 2018-11-21
 
 tags: [Knowledge Modeling, Meta-Modeling, Model Integration, Discrete Event System Models, Functional Modeling, Information Systems.]

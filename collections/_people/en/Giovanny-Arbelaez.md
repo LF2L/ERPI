@@ -8,7 +8,7 @@ header:
   teaser: /assets/images/people/GA.jpg
 
 orden: Arbelaez
-role: IR
+role: ex
 
 categories:
   - Fuzzy Front-End Innovation
