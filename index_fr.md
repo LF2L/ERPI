@@ -1,7 +1,7 @@
 ---
 lang: fr
 title: "ERPI"
-layout: splash
+layout: single
 permalink: /fr/
 excerpt: "Equipe de Recherche sur les Processus Innovatifs"
 
@@ -11,7 +11,7 @@ header:
 
 academic:
   - url: "https://www.ensgsi.univ-lorraine.fr/"
-    image_path: "/assets/images/partners/ENSGSI.jpg"
+    image_path: "/assets/images/partners/ENSGSI.png"
     alt: "ENSGSI"
     title: "ENSGSI"
 

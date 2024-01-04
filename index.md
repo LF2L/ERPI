@@ -2,14 +2,14 @@
 lang: en
 title: ERPI
 permalink: "/"
-layout: splash
+layout: single
 excerpt: Equipe de Recherche sur les Processus Innovatifs
 header:
   overlay_image: /assets/images/banner/bannerhomelogoeurope.jpg
 
 academic:
 - url: https://www.ensgsi.univ-lorraine.fr/
-  image_path: "/assets/images/partners/ENSGSI.jpg"
+  image_path: "/assets/images/partners/ENSGSI.png"
   alt: ENSGSI
   title: ENSGSI
 - url: http://doctorat.univ-lorraine.fr/fr/les-ecoles-doctorales/simppe/presentation
