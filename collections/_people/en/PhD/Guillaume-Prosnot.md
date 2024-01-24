@@ -1,5 +1,5 @@
 ---
-title: Guillaume Prosnot
+title: Guillaume Pronost
 permalink: /people/Guillaume-Prosnot/
 excerpt: "Design the Digital Twin of a Living Lab Project"
 last_modified_at: 2020-09-21

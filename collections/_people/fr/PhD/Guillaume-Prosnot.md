@@ -1,5 +1,5 @@
 ---
-title: Guillaume Prosnot
+title: Guillaume Pronost
 permalink: /fr/people/Guillaume-Prosnot/
 excerpt: "Conception du Jumeau Numérique d’un projet en mode Living Lab"
 last_modified_at: 2020-09-21
