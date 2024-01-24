@@ -12,7 +12,7 @@ Industrial:
     image_path: "/assets/images/projects/noremat/industrialpartner.png"
     alt: "Noremat Logo"
   - url: "http://accopilot.com"
-    image_path: "/assets/images/logo/logo_accopilot.png"
+    image_path: "/assets/images/projects/noremat/logo_accopilot.png"
   
 
 partners:
@@ -21,7 +21,7 @@ partners:
 - url: "https://www.univ-lorraine.fr/"
   image_path: "/assets/images/logo/logoul.png"
 - url: "https://www.ensgsi.univ-lorraine.fr"
-  image_path: "/assets/images/logo/Logo_ENSGSI.png"
+  image_path: "/assets/images/projects/noremat/Logo_ENSGSI.png"
 
 last_modified_at: 2024-01-24
 
@@ -96,16 +96,10 @@ L’objectif global de la chaire est de développer des outils et méthodes dits
 
 <i class="fas fa-link"></i> [NOREMAT](https://www.noremat.fr)  
 
-##  Réseaux sociaux
-
-<i class="fab fa-twitter-square"></i> [NOREMAT sur Twitter](https://twitter.com/noremat_?lang=fr)  
-
-<i class="fab fa-linkedin"></i> [NOREMAT sur Facebook](https://fr-fr.facebook.com/noremat)
-
 
 ## Contacts
-* **Brunelle MARCHE**: brunelle.marche{at}univ-lorraine.fr
-* **Mauricio CAMARGO**: mauricio.camargo{at}univ-lorraine.fr
+* **Brunelle MARCHE**: brunelle.marche@univ-lorraine.fr
+* **Mauricio CAMARGO**: mauricio.camargo@univ-lorraine.fr
 
 
 

@@ -1,17 +1,19 @@
 ---
-title: SAGID
-classes: wide
-excerpt: "Design of a strategic orientation and support tool at the regional level for the rational management of roadsides"
+title: Chair SAGID+
+excerpt: "Support for Roadside Vegetation Management Professions through Comprehensive and Sustainable Management"
 header:
   teaser: /assets/images/projects/noremat/teaser3.png
-  overlay_image: /assets/images/projects/noremat/banner.png
+  overlay_image: /assets/images/projects/noremat/Fond.png
 
-keywords: [Decision support tool ; territorial demonstrator ; road dependencies]
+keywords: [decision making tool ; territorial demonstrator ; roadside]
 
 Industrial:
-- url: "http://www.noremat.com/"
-  image_path: "/assets/images/projects/noremat/industrialpartner.png"
-  alt: "Noremat Logo"
+  - url: "http://www.noremat.com/"
+    image_path: "/assets/images/projects/noremat/industrialpartner.png"
+    alt: "Noremat Logo"
+  - url: "http://accopilot.com"
+    image_path: "/assets/images/projects/noremat/logo_accopilot.png"
+  
 
 partners:
 - url: "https://erpi.univ-lorraine.fr"
@@ -19,80 +21,84 @@ partners:
 - url: "https://www.univ-lorraine.fr/"
   image_path: "/assets/images/logo/logoul.png"
 - url: "https://www.ensgsi.univ-lorraine.fr"
-  image_path: https://raw.githubusercontent.com/fabbiocrux/Figures/main/Logos/ENSGSI/ENSGSI.jpg
+  image_path: "/assets/images/projects/noremat/Logo_ENSGSI.png"
 
-
-last_modified_at: 2021-05-21  
+last_modified_at: 2024-01-24
 
 Research-field:
-  - Design
+  - Environnement
+  - Territory management
 
 Funding: [FR]
 ---
 
-# SAGID - Innovative roadside management
-
+# Chair SAGID+ - Support for Roadside Vegetation Management Professions through Comprehensive and Sustainable Management
 
 
 <iframe width="100%" height="400" src="https://www.powtoon.com/embed/evWOEp1adMl/" frameborder="0" allowfullscreen></iframe>
 
+This chair places special emphasis on roadside and is interested in establishing sustainable management of these vegetated spaces, with the ability to mitigate the negative impacts of roads on biodiversity and play a fundamental role in its preservation. However, currently, various stakeholders at the territorial level lack operational methodologies/models that enable them to simultaneously consider and assess all the previously mentioned challenges.
 
-In a context where transport infrastructures are confronted with societal, territorial, political, technical and technological changes, it becomes essential to review their place in society. The construction and maintenance of transport infrastructure involves elements of assessment related to the economic role of transport, public safety and the living environment as well as the preservation of the environment. The consequences of the choices made, particularly in terms of spatial planning, have repercussions in the long term.   
+Recent studies have shown that current research on roadside management is approached in a fragmented and disciplinary manner. They have also highlighted a lack of formal models for addressing the complexity of such a system and integrating data from various sources and disciplines.
 
-It is therefore time to make infrastructure management strategies more resilient and adapted to the new conditions imposed by the planet. It must be said that while in theory this may seem simple and obvious, in practice the difficulty of deploying an environmentally friendly strategy remains. In order to facilitate the implementation of new road dependency management strategies, it is necessary to develop decision support tools to evaluate the economic, environmental and societal externalities and thus the impact of these management strategies on the environment and society.
+The overall goal of the chair is to develop ’turnkey’ tools and methods capable of assessing the sustainability of practices implemented in the decision-making process, supported by artificial intelligence, and then contribute to integrating the profession into bioeconomy sectors and promoting eco-responsible behaviors.
 
+## Objectifs de la recherche
 
+### Scientific
 
-## Research goal
+1. Enhance the economic, environmental, and socio-territorial performance of roadside.
+2. Promote eco-responsible behaviors regarding roadside management.
+3. Integrate the profession of roadside vegetation manager into the bioeconomy sectors.
 
-In order to support the actors of the territory in the management of transport infrastructures, this project seeks to develop a decision support tool for the actors of the territory. This tool, based on dynamic systems modelling, seeks to facilitate the evaluation of a road dependency management strategy upstream. The proposed approach will be tested on target territories and will be an integral part of a road dependency management demonstrator.
-The GID-Route project, in its first phase (September 2017-February 2019) has enabled to identify criteria for assessing the sustainability of roadside management impacts, through a literature review and interviews with stakeholders and develop a systems dynamics model allowing the integration of the various criteria and their possible interactions;
-The second phase of the project focuses on the development of a decision support tool through a user-centered approach favoring an innovative and sustainable management of roadside dependencies as well as the associated territorial demonstrator. A territorial demonstrator will be designed in connection with the decision support system in order to show the impacts of innovative and sustainable management of road dependencies.
+### Operational
 
+1. Enhance knowledge about roadside.
+2. Develop tools and methods capable of assessing the sustainability of roadside management practices.
+3. Support public management and actions in favor of roadside.
 
+**For more information, visit [the website of the chair SAGID+](https://sagid.eu)**
 
-## Academical partnerships
+## University partners
 
 {% include feature_row id="partners" %}
 
 
-## Industrial partnerships
+## Industrial partners
 
 {% include feature_row id="Industrial" %}
 
 
-## Associated scientific production
+## Funding
 
-- Rodriguez, S. C. B., Mauricio, C. P., Laure, M., & Christophe, B. (2018, June). Sustainable Management of Roadside: Towards a Research Agenda. In 2018 IEEE International Conference on Engineering, Technology and Innovation (ICE/ITMC) (pp. 1-9). IEEE.
-
-- [Bautista Rodriguez S., Marche B., Hamdani F., Camargo M., Mayer F., Bachmann C., Monticolo D.  (2020). Towards Smart and Suitable Management of Roadsides: System Dynamics in the Era of Industry 4.0. Sustainable Operations and Computers.](https://doi.org/10.1016/j.susoc.2020.12.001; hal-03119204)
-
-- [Bautista S., Camargo M., Morel L., Bachmann C. (2018). Sustainable Management of Roadside: Towards a Research Agenda. In 2018 IEEE International Conference on Engineering, Technology and Innovation (ICE/ITMC) (pp. 1-9). Stuttgart, GE.](https://doi.org/10.1109/ICE.2018.8436326)  
-
-- [Bautista, S., Camargo, M., & Bachmann, C. (2020, June). Sustainable roadside management from an innovative approach to ecosystem services and bioenergy generation. In 2020 IEEE International Conference on Engineering, Technology and Innovation (ICE/ITMC) (pp. 1-6). IEEE.](https://www.researchgate.net/publication/345085926_Sustainable_roadside_management_from_an_innovative_approach_to_ecosystem_services_and_bioenergy_generation)
+- Fonds Européen de Développement Régional (FEDER)
+- Groupe ACTIBAC
+- Métropole du Grand Nancy
+- Des Hommes et des Arbres
+- Solar Impulse
 
 
-## Website
+## Scientific publications
+
+- [BAUTISTA, S., MARCHE, B., HAMDANI, F., CAMARGO, M., MAYER, F., BACHMANN, C., MONTICOLO, D. (2022). Towards Smart and Suitable Management of Roadsides: System Dynamics in the Era of Industry 4.0. Sustainable Operations and Computers.](https://doi.org/10.1016/j.susoc.2020.12.001)
+
+- [MARCHE, B., CAMARGO M., BAUTISTA-RODRIGUEZ, S.C., CHAUDRON, C., MAYER, F., BACHMANN, C. (2022). Qualitative sustainability assessment of road verge management in France. Environmental Impact Assessment Review](https://doi.org/10.1016/j.eiar.2022.106911)
+
+- [ORTEGA J.P., DAZA-GACHA D., MARCHE B., CAMARGO PARDO M., CHAUDRON C., MAYER F., & GALVIS J. (2023). Towards a Modeling of the Impacts of Road Verge Management on the Pollination Service Using System Dynamics: A Case Study in France. Applied Mathematics](https://www.scirp.org/journal/paperinformation.aspx?paperid=125387)
+
+## Websites
+
+<i class="fas fa-link"></i> [SAGID+](https://sagid.eu)
+
+<i class="fas fa-link"></i> [ACTIBAC](https://actibac-groupe.fr)
 
 <i class="fas fa-link"></i> [NOREMAT](https://www.noremat.fr)  
 
 
-
-##  Social networks
-
-<i class="fab fa-twitter-square"></i> [NOREMAT on Twitter](https://twitter.com/noremat_?lang=fr)  
-
-<i class="fab fa-linkedin"></i> [NOREMAT on Facebook](https://fr-fr.facebook.com/noremat)
+## Contacts
+* **Brunelle MARCHE**: brunelle.marche@univ-lorraine.fr
+* **Mauricio CAMARGO**: mauricio.camargo@univ-lorraine.fr
 
 
 
-
-## Contacts  
-
-* **Brunelle MARCHE**: brunelle.marche{at}univ-lorraine.fr
-* **Mauricio CAMARGO**: mauricio.camargo{at}univ-lorraine.fr
-* **Sandra BAUTISTA**:
-
-
-
- *Timing of the project : 01/09/2020 --- not defined*
+ *The dates of the project : 2022 --- 2027*
