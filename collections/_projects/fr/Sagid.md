@@ -23,7 +23,7 @@ partners:
 - url: "https://www.ensgsi.univ-lorraine.fr"
   image_path: "/assets/images/logo/Logo_ENSGSI.png"
 
-last_modified_at: 2024-24-01
+last_modified_at: 2024-01-24
 
 Research-field:
   - Environnement
