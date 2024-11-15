@@ -29,7 +29,7 @@ Funding: [Lorraine]
 {% include video id="4a-joEYaM-8" provider="youtube" %}
 
 
-**Website**:  <a href="https://www.projetailes.com">![Logo Ailes]({{ site.baseimg }}/assets/images/projects/Ailes/logoailes.png){: width="50px"}</a> [https://www.projetailes.com/](https://www.projetailes.com).
+**Website**:  <a href="https://www.projetailes.com">![Logo Ailes]({{ site.baseimg }}/assets/images/projects/Ailes/logoailes.png){: width="50px"}</a> 
 
 
 ## Global context
