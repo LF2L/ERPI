@@ -29,7 +29,7 @@ last_modified_at: 2019-10-16
 
 
 
-**Website:**:  <a href="https://www.projetailes.com">![Logo Ailes]({{ site.baseimg }}/assets/images/projects/Ailes/logoailes.png){: width="50px"}</a> [https://www.projetailes.com/](https://www.projetailes.com).
+**Website:**:  <a href="https://www.projetailes.com">![Logo Ailes]({{ site.baseimg }}/assets/images/projects/Ailes/logoailes.png){: width="50px"}</a> 
 
 
 
